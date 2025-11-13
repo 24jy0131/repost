@@ -15,6 +15,7 @@
 | ---- | |-----|  
 | 0101 | | 戸田 |  
 | 0102 | | 伊藤 |  
+| 0103 | | 山田 |
 
 
 ![H3ロケット](https://www.jaxa.jp/projects/rockets/h3/images/h3_main_001.jpg)
